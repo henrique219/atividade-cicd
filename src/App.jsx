@@ -5,7 +5,7 @@ function App() {
 
   return (
     <main>
-      <h1>Minha aplicação com CI/CD</h1>
+     <h1>Aplicação publicada com GitHub Actions</h1>
 
       <p>Cliques: {cliques}</p>
 
